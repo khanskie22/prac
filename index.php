@@ -10,6 +10,7 @@ $products = [
     4 => ['name' => 'Eraser', 'price' => 10.00, 'icon' => '◻️'],
     5 => ['name' => 'Ruler', 'price' => 25.00, 'icon' => '📏'],
     6 => ['name' => 'Highlighter', 'price' => 35.00, 'icon' => '🖍️'],
+    7 => ['name' => 'Mouse', 'price' => 450.00, 'icon' => '🖱️'],
 ];
 
 if (!isset($_SESSION['cart'])) {
